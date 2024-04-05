@@ -84,7 +84,14 @@ URxvt.color15: #A6ADC8
 !! URxvt Appearance
 urxvt*depth: 32
 
-URxvt.font: xft:UbuntuMono Nerd Font:size=13, \             xft:Inconsolata Nerd Font Mono:size=13, \             xft:DejaVuSansMono Nerd Font:size=13, \             xft:DroidSansMono Nerd Font:size=13, \             xft:FuraMono Nerd Font:size=13, \             xft:RobotoMono Nerd Font:size=13, \             xft:Noto Sans Mono:size=13, \             xft:Monospace:style=Medium:size=13  
+URxvt.font: xft:UbuntuMono Nerd Font:size=15, \
+            xft:Inconsolata Nerd Font Mono:size=15, \
+            xft:DejaVuSansMono Nerd Font:size=15, \
+            xft:DroidSansMono Nerd Font:size=15, \
+            xft:FuraMono Nerd Font:size=15, \
+            xft:RobotoMono Nerd Font:size=15, \
+            xft:Noto Sans Mono:size=15, \
+            xft:Monospace:style=Medium:size=15  
 
 URxvt.letterSpace: 0
 URxvt.lineSpace: 0
