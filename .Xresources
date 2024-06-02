@@ -9,8 +9,8 @@ xterm*utf8: 2
 
 XTerm*termName:  xterm-256color
 
-*background: #E1E1E2
-*foreground: #CDD6F4
+/* *background: #E1E1E2 */
+/* *foreground: #CDD6F4 */
 
 ! black
 *color0: #45475A
